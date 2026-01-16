@@ -39,5 +39,5 @@ Thumbs.db
 
 # Project specific
 *.log
-config.local.py
+config_local.py
 
