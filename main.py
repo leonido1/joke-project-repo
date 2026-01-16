@@ -6,7 +6,7 @@ Home Assistant for Raspberry Pi using ChatGPT
 import os
 import sys
 from openai import OpenAI
-from config.local import OPENAI_API_KEY, ASSISTANT_NAME, SYSTEM_PROMPT
+from config_local import OPENAI_API_KEY, ASSISTANT_NAME, SYSTEM_PROMPT
 
 
 class HomeAssistant:
